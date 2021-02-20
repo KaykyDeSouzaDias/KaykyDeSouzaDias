@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello! I'm Kayky Dias 👋
 
-<!--
-**KaykyDeSouzaDias/KaykyDeSouzaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brazilian passionate about programming 😄
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a big experience in Game programming, Data science and Software engineer. I like games, I'm pacient and adaptable for each circumstance.
+
+I'm open to work
+
+### Contact
+
+Outlook: kaykydiasw@outlook.com.br
+
+Linkedin: Kayky de Souza Dias
+
+GameJolt: @Kayky_Dias
+
+Itch.io: https://kayky-dias.itch.io
