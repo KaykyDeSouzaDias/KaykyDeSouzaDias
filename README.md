@@ -1,6 +1,6 @@
 ### Hello! I'm Kayky de Souza Dias 👋
 
-I'm a Brazilian passionate about programming 😄
+I'm a Brazilian, passionate about programming 😄
 
 ### About
 
