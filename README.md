@@ -23,3 +23,5 @@ Linkedin: Kayky de Souza Dias
 GameJolt: @Kayky_Dias
 
 Itch.io: https://kayky-dias.itch.io
+
+![](https://github.com/KaykyDeSouzaDias/KaykyDeSouzaDias/blob/main/Curriculo%20criativo.jpg)
