@@ -24,4 +24,4 @@ GameJolt: @Kayky_Dias
 
 Itch.io: https://kayky-dias.itch.io
 
-![](https://github.com/KaykyDeSouzaDias/KaykyDeSouzaDias/blob/main/Curriculo%20criativo.jpg)
+Currículo: https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
