@@ -14,6 +14,10 @@ I'm open to work!
 
 Estou aberto a propostas!
 
+Check out my curriculum! -> https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
+
+Dê uma olhada no meu currículo! -> https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
+
 ### Contact
 
 Outlook: kaykydiasw@outlook.com.br
@@ -23,5 +27,3 @@ Linkedin: Kayky de Souza Dias
 GameJolt: @Kayky_Dias
 
 Itch.io: https://kayky-dias.itch.io
-
-Currículo: https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
