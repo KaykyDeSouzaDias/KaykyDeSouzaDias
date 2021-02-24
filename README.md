@@ -14,7 +14,7 @@ I'm open to work!
 
 Estou aberto a propostas!
 
-Check out my curriculum! -> https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
+Check out my curriculum! -> https://1drv.ms/b/s!AnrlygWokA-AgQu0BXzvFtcadsFC?e=hjqulx
 
 Dê uma olhada no meu currículo! -> https://1drv.ms/b/s!AnrlygWokA-AgQr3qj6SdyVgZlp-?e=D3OCfG
 
