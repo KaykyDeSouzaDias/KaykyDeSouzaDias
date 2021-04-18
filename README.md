@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  📄 <strong>Check out my curriculum!</strong> -> https://1drv.ms/b/s!AnrlygWokA-AgQu0BXzvFtcadsFC?e=hjqulx
+  📄 <strong>Check out my curriculum!</strong> -> https://1drv.ms/b/s!AnrlygWokA-AgQu0BXzvFtcadsFC?e=JuTuOP
 </p>
 
 <p align="left">
