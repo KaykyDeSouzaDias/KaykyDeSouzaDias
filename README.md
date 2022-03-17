@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h2 align="center">Hello! I'm Kayky de Souza Dias ☀️</h2>
-<p align="center"><strong>Brazillian Front-End Desktop/Web developer HTML | CSS | JAVASCRIPT | ELECTRON.JS <br> UI/Game developer | Unreal Engine 4 | Blueprints | Unity 2D/3D | C#</strong></p>
+<p align="center"><strong>Brazilian Front-End Desktop/Web developer HTML | CSS | JAVASCRIPT | ELECTRON.JS <br> UI/Game developer | Unreal Engine 4 | Blueprints | Unity 2D/3D | C#</strong></p>
 
 <h2>What I'm using</h2>
 
