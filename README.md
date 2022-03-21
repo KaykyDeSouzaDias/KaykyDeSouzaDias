@@ -45,8 +45,12 @@
 <details align="left">
   <summary><b>Find me in another place ⏬ </b></summary>
 <p align = "left">
- 
- <img src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkayky-de-souza-dias-514a431bb%2F"> <img src="https://img.shields.io/twitter/url?color=red&label=Youtube&logo=Youtube&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCjUBsUWjcN_cm1vOtnWLQCQ"> <img src="https://img.shields.io/twitter/url?color=green&label=Game%20Jolt&logo=Game%20Jolt&style=for-the-badge&url=https%3A%2F%2Fgamejolt.com%2F%40Kayky_Dias"> <img src="https://img.shields.io/twitter/url?color=red&label=Itch.io&logo=Itch.io&style=for-the-badge&url=https%3A%2F%2Fkayky-dias.itch.io%2F">
+  
+  <a href="https://www.linkedin.com/in/kayky-de-souza-dias-514a431bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCjUBsUWjcN_cm1vOtnWLQCQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:kaykydiasw@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://kayky-dias.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
+  
 </p>
 </details>
 
